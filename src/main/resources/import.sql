@@ -1,0 +1,2 @@
+INSERT INTO WELCOME_MESSAGE(id, languageCode, channel,welcomeMessage) VALUES (1, 'en', 'Mobile', 'Dear %s,'||chr(10)||'Welcome to Bank AlJazira.'||chr(10)||'Regards,'||chr(10)||'%s');
+INSERT INTO WELCOME_MESSAGE(id, languageCode, channel,welcomeMessage) VALUES (2, 'ar', 'Mobile', 'عزيزي'||chr(10)||'أهلاً بكم في بنك الجزيرة.'||chr(10)||'يعتبر،');
